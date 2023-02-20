@@ -4,8 +4,4 @@
 ## Team Members
 - Raymond Sabino
 
-## Lab Question Answers
 
-Answer for Question 1: 
-
-...
